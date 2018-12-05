@@ -11,11 +11,12 @@ export default class mensaje extends React.Component{
 return(
 
     <main>
-        <h1>Mensajes</h1>
-        <div>
-        </div>
+
     </main>
+  
+    
 );
+
     }
     
 }
